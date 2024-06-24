@@ -1,0 +1,30 @@
+Tooltip_FR = {
+
+  Tooltip_BuildingMenuObj_Wooden_Low_Fence = "Clôture basse en bois",
+  Tooltip_BuildingMenuObj_Wooden_Low_Fence_Corner = "Angle de clôture basse en bois",
+  Tooltip_BuildingMenuObj_Wooden_Low_Fence_Pillar = "Pilier de clôture basse en bois",
+
+  Tooltip_BuildingMenuObj_White_Low_Fence  = "Clôture basse blanche",
+  Tooltip_BuildingMenuObj_White_Low_Fence_Corner = "Angle de clôture basse blanche",
+  Tooltip_BuildingMenuObj_White_Low_Fence_Pillar = "Pilier de clôture basse blanche",
+
+  Tooltip_BuildingMenuObj_Green_Low_Fence  = "Clôture basse verte",
+  Tooltip_BuildingMenuObj_Green_Low_Fence_Corner = "Angle de clôture basse verte",
+  Tooltip_BuildingMenuObj_Green_Low_Fence_Pillar = "Pilier de clôture basse verte",
+
+  Tooltip_BuildingMenuObj_Brown_Low_Fence  = "Clôture basse marron",
+  Tooltip_BuildingMenuObj_Brown_Low_Fence_Corner  = "Angle de clôture basse marron",
+  Tooltip_BuildingMenuObj_Brown_Low_Fence_Pillar = "Pilier de clôture basse marron",
+
+  Tooltip_Low_Fence = "Une petite clôture classique, apportant une touche de charme de banlieue à votre serre post-apocalyptique.",
+
+  Tooltip_BuildingMenuObj_Wooden_Curb = "Bordure en bois",
+  Tooltip_BuildingMenuObj_Wooden_Curb_Corner = "Angle de bordure en bois",
+
+  Tooltip_BuildingMenuObj_White_Wooden_Curb = "Bordure en bois blanc",
+  Tooltip_BuildingMenuObj_White_Wooden_Curb_Corner = "Angle de bordure en bois blanc",
+
+  Tooltip_BuildingMenuObj_Narrow_Wooden_Curb = "Bordure en bois étroite",
+  Tooltip_BuildingMenuObj_Narrow_Curb_Corner = "Angle de bordure en bois étroite",
+
+}
