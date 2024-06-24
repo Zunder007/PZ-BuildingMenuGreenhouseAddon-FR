@@ -1,0 +1,7 @@
+IGUI_FR = {
+
+    IGUI_BuildingMenuSubCat_Walls_Green_Frame_Glass = "Cadre de vitre de couleur verte",
+    IGUI_BuildingMenuSubCat_Roofing_White_Roofs = "Toits blancs",
+    IGUI_BuildingMenuSubCat_Roofing_Brown_Roofs = "Toits bruns",
+
+}
